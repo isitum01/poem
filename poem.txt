@@ -12,3 +12,5 @@ f/prva-druga/drugi edit
 
 feature/prva treci edit
 
+feature prva prije maina
+feature prva prije maina
