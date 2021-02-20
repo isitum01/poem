@@ -1,6 +1,7 @@
 create file
 first edit
 second edit
+
 feature/prva edit
 feature/prva edit
 feature/prva drugi edit
@@ -14,3 +15,7 @@ feature/prva treci edit
 
 feature prva prije maina
 feature prva prije maina
+=======
+forth edit
+fifth edit
+sixth edit
