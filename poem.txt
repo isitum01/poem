@@ -5,3 +5,4 @@ feature/prva edit
 feature/prva edit
 feature/prva drugi edit
 feature/prva drugi edit
+feature/prva treci edit
